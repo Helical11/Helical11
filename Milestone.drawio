@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T07:34:11.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5G0mPN_WXiTLH1rLn34Q" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T07:37:38.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="38Z4w68QpNSUpkCu1c-x" version="20.6.0" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -464,22 +464,22 @@
           <mxGeometry x="561.0000000000015" y="500.0000000000007" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-434" value="" style="shape=mxgraph.flowchart.process;fillColor=#fa6800;strokeColor=none;strokeWidth=2;opacity=50;fillStyle=auto;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="641" y="400" width="119" height="20" as="geometry" />
+          <mxGeometry x="640" y="400" width="119" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-435" value="C" style="strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="41" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="40" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-436" value="テオヤンセンロボット作成" style="align=left;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="81" y="400" width="320" height="20" as="geometry" />
+          <mxGeometry x="80" y="400" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-437" value="6month" style="strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="401.0000000000018" y="400" width="80.00000000000028" height="20" as="geometry" />
+          <mxGeometry x="400" y="400" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-438" value="" style="strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="481.00000000000205" y="400" width="80.00000000000028" height="20" as="geometry" />
+          <mxGeometry x="480" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-439" value="" style="strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="561.0000000000016" y="400.0000000000002" width="80.00000000000028" height="20" as="geometry" />
+          <mxGeometry x="560" y="400.0000000000002" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-440" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
           <mxGeometry x="401.00000000000165" y="500.00000000000034" width="80.00000000000028" height="20" as="geometry" />
@@ -516,6 +516,9 @@
         </mxCell>
         <mxCell id="dIrE19unJ05-w4xrA9a4-454" value="" style="shape=mxgraph.flowchart.process;fillColor=#FF6666;strokeColor=none;strokeWidth=2;opacity=50;fontColor=#ffffff;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="740" y="240" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dIrE19unJ05-w4xrA9a4-455" value="2022.11.23" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="10" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
